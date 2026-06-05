@@ -1,0 +1,6 @@
+{
+  "name": "Interactive Analytics Dashboard",
+  "description": "Một bảng điều khiển phân tích số liệu kinh doanh hiện đại với các biểu đồ tương tác, hiển thị trực quan doanh thu, người dùng và các chỉ số hiệu suất chính.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
